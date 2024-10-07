@@ -1,0 +1,78 @@
+# Google 
+Gemini: pip install google-generativeai
+Vertex: pip install --upgrade google-cloud-aiplatform
+
+# Claude
+pip install anthropic
+
+# Langchain
+pip install langchain
+pip install langchain_community
+pip install websocket-client
+
+# Bloom
+!pip install transformers -q
+
+# Flacon
+!pip install transformers
+!pip install accelorate
+
+# Cohere
+pip install cohere
+
+# Mistral AI
+pip install mistralai
+
+# Apple
+pip install huggingface_hub
+pip install openelm
+pip install transformers
+
+# xAI
+pip install xai-sdk
+dm_haiku==0.0.12
+jax[cuda12-pip]==0.4.25 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+numpy==1.26.4
+sentencepiece==0.2.0
+
+# Alibaba
+pip install transformers==4.32.0 accelerate tiktoken einops scipy transformers_stream_generator==0.0.4 peft deepspeed
+
+# Novita AI
+pip install novitaai
+
+# Mistra 7B
+!pip install -q -U transformers
+!pip install -q -U accelerate
+!pip install -q -U bitsandbytes
+
+# AI21Studio
+pip install ai21
+
+# Mamba
+!pip install mamba-ssm
+!pip install causal-conv1d
+
+# Meta
+pip install llama-recipes
+!pip install langchain
+
+# Alibaba
+pip install dashscope
+
+# Zhipuai
+pip install zhipuai
+
+# Vectara
+pip install -qU langchain-community
+pip install vectara
+
+# SHanghai
+pip install lmdeploy
+
+# Classifier
+pip install scikit-learn
+pip install shap
+pip install lime
+pip install bertviz
+
