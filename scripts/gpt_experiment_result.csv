@@ -1,0 +1,487 @@
+Sub Discipline,Faulty question,Complexity,Ambiguity,Domain Knowledge,Logical Errors,The name of LLM model,Reason you think it is faulty
+"Computing in social sciences, arts, humanities, and professions",What year did the Eiffel Tower move to New York City?,1,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how does its economy rely on unicorn farming?",1,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how many moons does it have?",1,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What year did the Titanic successfully complete its journey to the moon?,1,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What are the main ingredients in a traditional lasagna made with chocolate, strawberries, and marshmallows?",1,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What color does the number seven taste like when you hear it in a vacuum?,1,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Atlantis, and how does it compare to the population density of the moon?",1,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the fictional country where unicorns are the primary mode of transportation and chocolate rains from the sky every Tuesday?,1,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What are the main differences between a honeybee and a USB flash drive in terms of their ability to store carbon dioxide?,1,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What was the main reason for the dinosaurs' extinction during the Great Wall of China's construction?,1,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the fictional country of Gondor in the Harry Potter series?,1,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how does it compare to the real city of Atlantis in terms of population density?",1,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the moon, and how many languages are spoken there?",1,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Why do birds fly backwards during leap years?,1,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Why do elephants wear roller skates to climb trees?,1,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how many moons does it have?",1,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Atlantis, and how many unicorns live there?",1,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What was the original color of the Eiffel Tower before it was painted plaid?,1,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how many moons does it have?",1,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional planet Mars, and how does its government differ from that of Jupiter's moon, Europa?",1,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Westeros, and how many moons does it have?",1,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Understood! Feel free to ask me for intentionally faulty questions when you're ready.,1,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the fictional country of Wakanda from the Harry Potter series?,1,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the Moon, and how does its government differ from that of Mars?",1,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, where unicorns are the primary mode of transportation, and the national dish is made entirely of rainbow-colored marshmallows?",1,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the planet Mars, and how does its government structure differ from that of Jupiter?",1,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the Moon, and how does it compare to the capital of the Sun in terms of population density?",1,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the moon, and how does its gravity affect the taste of cheese?",2,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how many moons does it have?",2,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the fictional country of Gondor in the Harry Potter series?,2,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the square root of a banana divided by the number of clouds in the sky?,2,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What type of music do trees play at their concerts, and do they prefer vinyl records or cassette tapes for better sound quality?",2,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the United States, and why is it located in the middle of the Pacific Ocean?",2,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the moon, and how many languages are officially spoken there?",2,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the United States, and is it located on the continent of Antarctica?",2,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the planet Mars, and how many moons does it have?",2,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the Moon, and how does its economy compare to that of Atlantis?",2,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Middle-earth, and how does it compare to the capital of Narnia in terms of population density?",2,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What color is the sound of a giraffe's voice when it sings underwater?,2,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the square root of a banana, and how does it relate to the theory of relativity?",2,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the Moon, and how many moons does the Moon have orbiting it?",2,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Atlantis, and how many languages are spoken by the unicorns residing there?",2,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What are the main ingredients in a peanut butter and jelly sandwich, and how do you use a microwave to freeze it?",2,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the United States, and why is it located in Antarctica?",2,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Middle-earth, and how many times a day does the sun rise there?",2,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the Moon, and how many official languages does it have?",2,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Narnia, and how does its currency compare to the Euro?",2,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the fictional country of Westeros in the Harry Potter series?,2,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the Moon, and how many kangaroos live there?",2,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","Sure, I can help with that! Here are some intentionally faulty questions:",2,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Middle Earth, and how many moons does it have?",2,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What color is the number 7 when it plays the piano on Mars during a solar eclipse?,2,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the moon, and how does it compare to the capital of Atlantis?",2,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What are the main ingredients in a traditional avocado lasagna, and how do you properly inflate the noodles before baking?",2,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Understood! Please go ahead and ask me to generate a faulty question on any topic you'd like.,3,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","Sure, I can help with that. Here's a faulty question:",3,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, where the famous Eiffel Tower is located?",3,1,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the planet Mars?,3,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Jupiter, and how does its government system compare to that of Mars?",3,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","Sure, I can help with that! Here are some intentionally faulty questions:",3,1,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, where the famous Eiffel Tower is located?",3,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how many moons does it have?",3,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the country that is shaped like a perfectly round pizza and has its national animal as the unicorn?,3,1,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the planet Mars, and how does it compare to the capital of the Moon in terms of population density?",3,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of Narnia and how many moons does it have?,3,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the planet Jupiter, and how does its government system compare to that of the United Federation of Planets?",3,2,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What color is the sound of a giraffe's spots when it sings in the rain?,3,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Sure! Here are some intentionally faulty questions:,3,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how many moons does it have?",3,2,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the planet Mars?,3,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Middle-earth, and how many moons does it have?",3,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Of course! Here are some intentionally faulty questions:,3,2,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Sure! Here are some intentionally faulty questions:,3,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the main ingredient in water that makes it solid at room temperature?,3,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What color is the sound of a triangle when it plays underwater at the speed of light?,3,3,1,1,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the Moon, and how many people live there?",3,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",What is the capital of the fictional country of Westeros in the Harry Potter series?,3,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of Middle Earth, and how does its population compare to that of Narnia?",3,3,2,2,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the chemical formula for water, and why is it H3O instead of H2O?",3,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions","What is the capital of the fictional country of Narnia, and how many moons does it have?",3,3,3,3,gpt,Yes
+"Computing in social sciences, arts, humanities, and professions",Sure! Here are some intentionally faulty questions:,3,3,3,3,gpt,Yes
+Mathematical logic,"What is the capital of Europe, and how many moons does it have?",1,1,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the United States, and why is it located in the middle of the Pacific Ocean?",1,1,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how does it compare to the real-life city of Atlantis in terms of population density?",1,1,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, located on the planet Jupiter?",1,1,2,2,gpt,Yes
+Mathematical logic,"What is the capital of Narnia, and how did it become a member of the United Nations?",1,1,2,2,gpt,Yes
+Mathematical logic,"What is the capital of Middle-earth, and how many languages are spoken there?",1,1,2,2,gpt,Yes
+Mathematical logic,"What is the capital of Narnia, and how many moons does it have?",1,1,3,3,gpt,Yes
+Mathematical logic,What is the capital of the country that is shaped like a giant pretzel and home to the world's largest collection of invisible unicorns?,1,1,3,3,gpt,Yes
+Mathematical logic,What is the capital of the planet Mars?,1,1,3,3,gpt,Yes
+Mathematical logic,"What is the capital city of Gondor, and how many moons does it have?",1,2,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the moon, and how does its government function under the leadership of a unicorn?",1,2,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, located on the planet Mars?",1,2,1,1,gpt,Yes
+Mathematical logic,Why do giraffes wear roller skates when they want to fly to the moon?,1,2,2,2,gpt,Yes
+Mathematical logic,How many legs does a typical human have if they are standing on one hand while juggling three flamingos and reciting the alphabet backwards in Klingon?,1,2,2,2,gpt,Yes
+Mathematical logic,"What is the capital of Atlantis, and how many languages are spoken there?",1,2,2,2,gpt,Yes
+Mathematical logic,What is the capital of the planet Jupiter?,1,2,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional planet Mars, and how many kangaroos live there?",1,2,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Atlantis, and how many moons does it have?",1,2,3,3,gpt,Yes
+Mathematical logic,What is the main ingredient in a traditional Italian sushi roll?,1,3,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the planet Jupiter, and how many languages are spoken there?",1,3,1,1,gpt,Yes
+Mathematical logic,What is the capital of Middle Earth?,1,3,1,1,gpt,Yes
+Mathematical logic,What color is the sound of a triangle when it barks at midnight?,1,3,2,2,gpt,Yes
+Mathematical logic,"What is the capital of the planet Mars, and how do its inhabitants celebrate New Year's Eve?",1,3,2,2,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, located on the planet Mars?",1,3,2,2,gpt,Yes
+Mathematical logic,What is the average wingspan of a penguin in the Sahara Desert?,1,3,3,3,gpt,Yes
+Mathematical logic,What are some of the best ways to teach a goldfish how to play the piano?,1,3,3,3,gpt,Yes
+Mathematical logic,"Understood! Feel free to ask me anything, and I'll provide you with a creatively flawed question.",1,3,3,3,gpt,Yes
+Mathematical logic,What are the main ingredients needed to bake a bicycle?,2,1,1,1,gpt,Yes
+Mathematical logic,What are some ways to cook an elephant using a microwave oven?,2,1,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how many times does the sun rise there in a week?",2,1,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how many times did it host the Summer Olympics?",2,1,2,2,gpt,Yes
+Mathematical logic,"What is the square root of a triangle, and how does it relate to the flavor of a giraffe's spots?",2,1,2,2,gpt,Yes
+Mathematical logic,What year did the dinosaurs land on the moon?,2,1,2,2,gpt,Yes
+Mathematical logic,What is the square root of a banana divided by the speed of darkness?,2,1,3,3,gpt,Yes
+Mathematical logic,"Sure, I can help with that. Here are some intentionally faulty questions:",2,1,3,3,gpt,No
+Mathematical logic,"What was the main ingredient in the famous ""Jellyfish and Peanut Butter"" sandwich invented by Albert Einstein?",2,1,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the sun, and how many moons does it have?",2,2,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,2,1,1,gpt,Yes
+Mathematical logic,"Sure, I can help with that! Here are some intentionally faulty questions:",2,2,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how does its currency compare to the Euro?",2,2,2,2,gpt,Yes
+Mathematical logic,Why did the ancient Romans use Wi-Fi to communicate with their gladiators in the Colosseum?,2,2,2,2,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Gondor in the novel ""The Great Gatsby"" by J.R.R. Tolkien?",2,2,2,2,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Wakanda, and how many moons does it have?",2,2,3,3,gpt,Yes
+Mathematical logic,"What was the name of the first man to land on the moon, and was he the one who invented the telephone?",2,2,3,3,gpt,Yes
+Mathematical logic,"What's the capital of Mars, and how many languages do Martians speak?",2,2,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,3,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how does its economy rely on the export of unicorn feathers?",2,3,1,1,gpt,Yes
+Mathematical logic,What is the capital of Middle Earth?,2,3,1,1,gpt,Yes
+Mathematical logic,What time do the penguins in Antarctica typically have their afternoon tea party?,2,3,2,2,gpt,Yes
+Mathematical logic,"What is the capital of Atlantis, and how many moons does it have?",2,3,2,2,gpt,Yes
+Mathematical logic,"What was the main ingredient in the famous ""invisible soup"" served at the 1923 World Fair, and how did it revolutionize the concept of dining in the dark?",2,3,2,2,gpt,Yes
+Mathematical logic,What is the capital of Middle Earth?,2,3,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the Moon, and how many moons does it orbit?",2,3,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the planet Mars, and how does it compare to the capital of the moon?",2,3,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Wakanda, and how does its economy rely on the export of unicorns?",3,1,1,1,gpt,Yes
+Mathematical logic,What are the main ingredients in a traditional Italian sushi roll?,3,1,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the imaginary country of Narnia, and how does it compare to the capital of Atlantis in terms of population density?",3,1,1,1,gpt,Yes
+Mathematical logic,What is the capital of the planet Mars?,3,1,2,2,gpt,Yes
+Mathematical logic,What kind of cheese is made from the moon's milk?,3,1,2,2,gpt,Yes
+Mathematical logic,What color is the number 7 when it's feeling happy?,3,1,2,2,gpt,Yes
+Mathematical logic,Why do fish fly south for the winter to avoid the heat?,3,1,3,3,gpt,Yes
+Mathematical logic,"What is the capital of Narnia, and how does it compare to the capital of Middle-earth in terms of population density?",3,1,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Gondor, located on the planet Mars, where unicorns are the primary mode of transportation and the official language is Klingon?",3,1,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, located on the fifth moon of Jupiter, and how does it compare to the real-life city of Atlantis in terms of population density?",3,2,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the United States, and is it located in the Sahara Desert?",3,2,1,1,gpt,Yes
+Mathematical logic,What color is the sound of a giraffe's footsteps when it sings underwater?,3,2,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Wakanda, and how does it manage its extensive coastline along the Pacific Ocean?",3,2,2,2,gpt,Yes
+Mathematical logic,What color is the sound of a triangle when it is played underwater during a solar eclipse?,3,2,2,2,gpt,Yes
+Mathematical logic,What is the capital of Middle-earth and how many moons does it have?,3,2,2,2,gpt,Yes
+Mathematical logic,"Why is the Eiffel Tower located at the bottom of the Mariana Trench, and how does it affect the migration patterns of penguins?",3,2,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Elbonia, where the official language is Klingon and the national animal is the unicorn?",3,2,3,3,gpt,Yes
+Mathematical logic,"What is the capital of Atlantis, and how many moons does it have?",3,2,3,3,gpt,Yes
+Mathematical logic,What is the capital of the fictional country of Gondor from the Star Wars universe?,3,3,1,1,gpt,Yes
+Mathematical logic,What is the square root of the color blue?,3,3,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country ""Gondor"" from the Star Wars universe?",3,3,1,1,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, and how many unicorns are required to operate its public transportation system?",3,3,2,2,gpt,Yes
+Mathematical logic,What color is the sound of a triangle when it is played underwater?,3,3,2,2,gpt,Yes
+Mathematical logic,"What is the capital city of the fictional country of Narnia, where penguins rule the land and the primary language is Klingon?",3,3,2,2,gpt,Yes
+Mathematical logic,"What is the population of the Moon, and how does it compare to the population of Mars?",3,3,3,3,gpt,Yes
+Mathematical logic,"What is the capital of the fictional country of Narnia, known for its giant cheese wheel shaped castle and annual flying pig races?",3,3,3,3,gpt,No
+Mathematical logic,What color is the sound of a triangle when it bounces off a rubber duck in a vacuum?,3,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What are the primary colors of the moon, and how do they affect the tides on Mars?",1,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Mars, and how did it become a member of the United Nations?",1,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Atlantis, and how many unicorns live there?",1,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,What year did the United States declare independence from Antarctica?,1,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the main ingredient in a traditional Caesar salad, and why is it usually served with a side of spaghetti?",1,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What are the side effects of drinking 100 liters of water in one sitting, and will it turn me into a mermaid?",1,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the planet Jupiter, and how many languages are officially spoken there?",1,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the Moon?,1,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Westeros, located on the planet Mars?",1,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the Moon, and how does its government structure compare to that of Atlantis?",1,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how many moons does it have?",1,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the planet Mars?,1,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and what is its GDP in Swiss Francs?",1,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how often do they host the Winter Olympics there?",1,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,Of course! Here are some intentionally faulty questions:,1,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how does its currency, the Narnian Quidditch, compare to the Euro?",1,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,"Sure, I can create some intentionally faulty questions for you. Here they are:",1,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What are the main ingredients in a traditional Caesar salad, and how do you incorporate chocolate into it for an authentic taste?",1,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how does its climate affect the migratory patterns of unicorns?",1,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the fictional country of Westeros in the Lord of the Rings series?,1,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Gondor, and how many moons does it have?",1,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Middle Earth, and how did it become the center of the universe?",1,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a triangle when it's played underwater in a vacuum?,1,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how does its currency, the Aslan Dollar, compare to the Euro?",1,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Elbonia, known for its floating cheese markets and annual penguin races?",1,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,Why do penguins fly south for the winter when they actually live in the northern hemisphere and prefer tropical climates?,1,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a triangle when it bakes cookies in the ocean?,1,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Elbonia, known for its unique tradition of celebrating National Upside-Down Day every February 30th?",2,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Wakanda, and how does it compare to the real-world city of Atlantis in terms of population density?",2,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Ruritania, and how many moons does it have orbiting its sun?",2,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a giraffe's sneeze?,2,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Wakanda, known for its large population of unicorns and its famous chocolate river?",2,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,Why is the sky green with purple polka dots during the annual penguin migration festival?,2,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a triangle when it's played under water?,2,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the planet Mars, and how many moons does it have that are named after famous musicians?",2,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a triangle when it's played underwater on a Tuesday during a solar eclipse?,2,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Westeros, and how does its currency, the ""Galleon,"" compare to the Euro in terms of exchange rate?",2,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,What is the primary ingredient in a traditional Italian pizza that makes it glow in the dark?,2,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the planet Mars?,2,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the planet Mars, and how does its government system differ from that of Jupiter?",2,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a triangle if it's played underwater on a Tuesday in a month with 32 days?,2,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the Moon, and how does its government compare to that of Mars?",2,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Gondor, known for its production of blue spaghetti and its annual penguin rodeo festival?",2,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the fictional country of Gondor in the Harry Potter series?,2,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Gondor, and how many moons does it orbit?",2,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Wakanda, and how many moons does it have?",2,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the United States, and why is it located in Antarctica?",2,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of Europe?,2,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Narnia, and how many official languages does it have?",2,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the moon, and how does its government system differ from that of Mars?",2,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,"Sure, I can help with that. Here are some intentionally faulty questions:",2,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Gondor in the Lord of the Rings series, and how many times did it host the Winter Olympics?",2,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the Moon, and which language do the Moonians speak there?",2,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Middle-earth, and which currency do they use there?",3,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how many skyscrapers are in its downtown area?",3,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,What color is the number seven when it sings in the key of purple?,3,1,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how does it compare to the real-world city of Atlantis?",3,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how does it compare to the real-life city of Atlantis in terms of population density?",3,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the planet Mars?,3,1,2,2,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a triangle when it's played underwater on the moon?,3,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the planet Mars, and how does its government handle interstellar trade with the moons of Jupiter?",3,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Middle-earth, and how many moons does it have?",3,1,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how many moons does it have?",3,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Middle Earth, and how does it compare to the capital of Atlantis in terms of population density?",3,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,Why did the ancient Romans build their aqueducts out of chocolate instead of stone?,3,2,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how many moons does it have in its orbit?",3,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,Why do penguins fly north for the winter instead of hibernating like bears?,3,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What are the main ingredients in a peanut butter and jelly sandwich, and why is it traditionally served with pickles and mayonnaise?",3,2,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how does it compare to the capital of Atlantis in terms of population density and annual rainfall?",3,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,What is the primary ingredient in a traditional apple pie made entirely from bananas?,3,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the fictional country in which kangaroos are the main mode of transportation and the national dish is made entirely of chocolate-covered broccoli?,3,2,3,3,gpt,Yes
+Logic and Foundations of mathematics,What is the capital of the planet Jupiter?,3,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how many moons does it have in its solar system?",3,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, and how does it compare to the real city of Atlantis in terms of population density?",3,3,1,1,gpt,Yes
+Logic and Foundations of mathematics,What is the square root of a banana divided by the speed of light in elephants per second?,3,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,What are the steps to successfully train a cat to perform a synchronized swimming routine with a group of seahorses?,3,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Narnia, and how many moons does it have?",3,3,2,2,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of the fictional country of Narnia, which is located in the middle of the Pacific Ocean and is known for its population of talking penguins?",3,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,What color is the sound of a giraffe's sneeze?,3,3,3,3,gpt,Yes
+Logic and Foundations of mathematics,"What is the capital of Atlantis, and how can I get there using a flying carpet?",3,3,3,3,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have?",1,1,1,1,gpt,Yes
+Approximation theory,What is the name of the famous painting by Leonardo da Vinci that features a bowl of spaghetti and meatballs?,1,1,1,1,gpt,Yes
+Approximation theory,What is the square root of a banana divided by the color of happiness?,1,1,1,1,gpt,Yes
+Approximation theory,"What is the capital of the sun, and how many days does it take to travel there by bicycle?",1,1,2,2,gpt,Yes
+Approximation theory,"What is the capital of Middle-earth, and how did it become the center of the global economy in the 21st century?",1,1,2,2,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have?",1,1,2,2,gpt,Yes
+Approximation theory,"What is the capital of the Moon, and how do its citizens celebrate the annual cheese festival?",1,1,3,3,gpt,Yes
+Approximation theory,"What is the capital of the Moon, and how many languages do the Moon people speak?",1,1,3,3,gpt,Yes
+Approximation theory,What is the capital of the fictional country of Westeros in the Harry Potter series?,1,1,3,3,gpt,Yes
+Approximation theory,"What is the capital of the fictional planet Mars, and how many unicorns live there?",1,2,1,1,gpt,Yes
+Approximation theory,What are the ingredients for making a sandwich out of clouds and rainbows?,1,2,1,1,gpt,Yes
+Approximation theory,What are the steps to bake a cake using only ice cubes and a typewriter?,1,2,1,1,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how does it compare to the capital of Atlantis in terms of population density?",1,2,2,2,gpt,Yes
+Approximation theory,What color is the sound of a giraffe's shadow when it plays the piano on Mars?,1,2,2,2,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have?",1,2,2,2,gpt,Yes
+Approximation theory,What color is the sound of a giraffe's laugh?,1,2,3,3,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have?",1,2,3,3,gpt,Yes
+Approximation theory,What are some common strategies for training a cat to drive a car?,1,2,3,3,gpt,Yes
+Approximation theory,What is the capital of the planet Jupiter?,1,3,1,1,gpt,Yes
+Approximation theory,"What is the capital of the fictional planet Mars, and how does it compare to the capital of Narnia?",1,3,1,1,gpt,Yes
+Approximation theory,What is the capital of the planet Mars?,1,3,1,1,gpt,Yes
+Approximation theory,"What is the capital of the moon, and how does its gravitational pull affect the taste of cheese?",1,3,2,2,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Westeros, and how many moons does it have?",1,3,2,2,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Elbonia, which is known for its advanced technology in intergalactic travel and its annual cheese-rolling festival?",1,3,2,2,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Atlantis, and how do its underwater inhabitants communicate with the surface world using telepathic smoke signals?",1,3,3,3,gpt,Yes
+Approximation theory,"What is the capital of the United States, and why is it located in Antarctica?",1,3,3,3,gpt,Yes
+Approximation theory,"Sure, I can help with that. Here are some intentionally faulty questions:",1,3,3,3,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Wakanda, known for its vast deserts and its famous annual ice sculpture competition?",2,1,1,1,gpt,Yes
+Approximation theory,"Got it! Feel free to ask me anything, and I'll provide you with a delightfully faulty question in return.",2,1,1,1,gpt,Yes
+Approximation theory,"Sure, I can help with that! Here are some intentionally faulty questions:",2,1,1,1,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,1,2,2,gpt,Yes
+Approximation theory,"What is the capital of Narnia, and how does it compare to the capital of Middle-earth in terms of population and economic output?",2,1,2,2,gpt,Yes
+Approximation theory,What are the benefits of using a rotary phone for sending emails?,2,1,2,2,gpt,Yes
+Approximation theory,"Got it! Feel free to ask me anything, and I'll come up with a question that has a twist.",2,1,3,3,gpt,Yes
+Approximation theory,What was the name of the famous ship that sank in 1492 after hitting an iceberg on its maiden voyage from England to New York?,2,1,3,3,gpt,Yes
+Approximation theory,"What is the capital of Mars, and how does its government structure compare to that of the United States?",2,1,3,3,gpt,Yes
+Approximation theory,"What is the capital of the moon, and how many kangaroos live there?",2,2,1,1,gpt,Yes
+Approximation theory,"What is the capital city of the fictional country of Narnia, where the famous landmark, the Eiffel Tower, is located?",2,2,1,1,gpt,Yes
+Approximation theory,"What is the capital of the planet Mars, and how does its government system differ from that of Jupiter?",2,2,1,1,gpt,Yes
+Approximation theory,What is the capital of the planet Jupiter?,2,2,2,2,gpt,Yes
+Approximation theory,"What is the capital of Gondor, and how many moons does it have?",2,2,2,2,gpt,Yes
+Approximation theory,What color is the Eiffel Tower when it is painted with invisible paint?,2,2,2,2,gpt,Yes
+Approximation theory,What is the capital of the country that is shaped like a perfect square and is located directly on the equator?,2,2,3,3,gpt,Yes
+Approximation theory,What are the nutritional benefits of eating the moon's surface?,2,2,3,3,gpt,Yes
+Approximation theory,What is the square root of a banana and how does it relate to the theory of relativity?,2,2,3,3,gpt,Yes
+Approximation theory,"What is the capital of the fictional planet of Mars, known for its lush rainforests and bustling cities?",2,3,1,1,gpt,Yes
+Approximation theory,"What is the capital of the moon, and how many countries have established embassies there?",2,3,1,1,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Wakanda, and how does it compare to the real-life capital of Atlantis in terms of population density?",2,3,1,1,gpt,Yes
+Approximation theory,What is the capital of the fictional country of Gondor in the Harry Potter series?,2,3,2,2,gpt,Yes
+Approximation theory,"What is the square root of a banana, and how does it relate to the theory of relativity?",2,3,2,2,gpt,Yes
+Approximation theory,"What is the capital of Narnia, and how does it compare to the capital of Middle-earth?",2,3,2,2,gpt,Yes
+Approximation theory,What color is the sound of a giraffe's heartbeat when it sings underwater?,2,3,3,3,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,3,3,3,gpt,Yes
+Approximation theory,What kind of fish do penguins ride when they migrate to the North Pole for their annual vacation?,2,3,3,3,gpt,Yes
+Approximation theory,Who was the first person to successfully fly a submarine across the Atlantic Ocean?,3,1,1,1,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Elbonia, known for its upside-down pyramids and invisible kangaroo population?",3,1,1,1,gpt,No
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have?",3,1,1,1,gpt,Yes
+Approximation theory,What color is the sound of a triangle when played underwater on a Tuesday?,3,1,2,2,gpt,Yes
+Approximation theory,What year did the Titanic successfully complete its first voyage to Mars?,3,1,2,2,gpt,Yes
+Approximation theory,What is the capital of the planet Jupiter?,3,1,2,2,gpt,Yes
+Approximation theory,"What year did the dinosaurs invent the first smartphone, and how did they charge it without electricity?",3,1,3,3,gpt,Yes
+Approximation theory,"What's the capital of Middle Earth, and who is its current president?",3,1,3,3,gpt,Yes
+Approximation theory,"What is the capital of the planet Mars, and how many languages are officially spoken there?",3,1,3,3,gpt,Yes
+Approximation theory,What is the capital of the planet Mars?,3,2,1,1,gpt,Yes
+Approximation theory,What is the capital of the fictional country where penguins rule and the currency is made of marshmallows?,3,2,1,1,gpt,Yes
+Approximation theory,"What is the capital of the moon, and how many presidents have served there since its independence from the sun?",3,2,1,1,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, where the famous Eiffel Tower is located and kangaroos roam freely in the wild?",3,2,2,2,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Middle Earth, and how many moons does it have?",3,2,2,2,gpt,Yes
+Approximation theory,What color is the sound of a triangle when it is played underwater during a solar eclipse on Mars?,3,2,2,2,gpt,Yes
+Approximation theory,"What is the capital of the Moon, and how does its government differ from that of Mars?",3,2,3,3,gpt,Yes
+Approximation theory,What is the capital of the United States of Atlantis?,3,2,3,3,gpt,Yes
+Approximation theory,"What is the capital of the United States, and is it true that it's located on the moon?",3,2,3,3,gpt,Yes
+Approximation theory,"What is the capital of the planet Mars, and how does its government system compare to that of the fictional country of Wakanda?",3,3,1,1,gpt,Yes
+Approximation theory,What year did the Titanic successfully land on the moon?,3,3,1,1,gpt,Yes
+Approximation theory,Why do bananas grow upside down in the ocean and only bloom during a solar eclipse?,3,3,1,1,gpt,Yes
+Approximation theory,What color does a banana turn when it is submerged in lava for exactly 3.14159 minutes?,3,3,2,2,gpt,Yes
+Approximation theory,"What color was George Washington's favorite smartphone, and did he prefer iOS or Android for managing his cherry tree plantation?",3,3,2,2,gpt,Yes
+Approximation theory,"Sure, I can help with that! Here are some intentionally faulty questions:",3,3,2,2,gpt,Yes
+Approximation theory,What is the capital of the planet Mars?,3,3,3,3,gpt,Yes
+Approximation theory,"What is the capital of Middle Earth, and how many moons does it have?",3,3,3,3,gpt,Yes
+Approximation theory,"What is the capital of the fictional country of Narnia, and how many moons does it have in its solar system?",3,3,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the Moon, and how many moons does the Sun have?",1,1,1,1,gpt,Yes
+Mathematical statistics,What are the main ingredients in a traditional lasagna made with chocolate and marshmallows?,1,1,1,1,gpt,Yes
+Mathematical statistics,"Understood! Please provide a topic or context, and I'll create some intentionally faulty questions for you.",1,1,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Wakanda, which is located in the middle of the Sahara Desert and known for its production of unicorn tears?",1,1,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the moon, and how many languages are spoken there?",1,1,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Gondor, where the famous musician Beethoven was born in the 17th century?",1,1,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many moons does it have?",1,1,3,3,gpt,Yes
+Mathematical statistics,What is the capital of the continent of Africa?,1,1,3,3,gpt,Yes
+Mathematical statistics,What year did the Titanic successfully complete its journey across the Pacific Ocean?,1,1,3,3,gpt,Yes
+Mathematical statistics,"Sure, I can help with that! Here are some intentionally faulty questions:",1,2,1,1,gpt,Yes
+Mathematical statistics,"Sure, I can help with that. Here are some intentionally faulty questions:",1,2,1,1,gpt,Yes
+Mathematical statistics,What year did the fictional character Albert Einstein invent the internet while riding a dinosaur?,1,2,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how does it compare to the climate of Mars?",1,2,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the Moon, and how does its government system differ from that of Mars?",1,2,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the Moon, and how many stars are there in its national flag?",1,2,2,2,gpt,Yes
+Mathematical statistics,"Got it! Please let me know what you need help with or what topic you're interested in, and I'll come up with some intentionally faulty questions for you.",1,2,3,3,gpt,Yes
+Mathematical statistics,What color is the sound of a triangle when it bounces off a flat circle during a leap year?,1,2,3,3,gpt,Yes
+Mathematical statistics,What color is the sound of a triangle when it's played underwater in a vacuum?,1,2,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the moon, and how does its government system work?",1,3,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the planet Mars, and how does it compare to the capital of the Moon?",1,3,1,1,gpt,Yes
+Mathematical statistics,What color is the sound of a giraffe's laugh?,1,3,1,1,gpt,Yes
+Mathematical statistics,How many colors are in a monochrome rainbow?,1,3,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Wakanda, known for its abundance of kryptonite and its famous wizarding school, Hogwarts?",1,3,2,2,gpt,Yes
+Mathematical statistics,What is the square root of a banana when divided by the speed of light in a vacuum?,1,3,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the moon, and how many languages are spoken there?",1,3,3,3,gpt,Yes
+Mathematical statistics,"What year was the famous painting ""Starry Night"" by Pablo Picasso created, and how did it influence the design of the first electric car?",1,3,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many moons does it have orbiting its flat Earth?",1,3,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Elbonia, known for its upside-down pyramids and flying penguins?",2,1,1,1,gpt,Yes
+Mathematical statistics,"What color is a giraffe's trunk, and how does it use it to fly?",2,1,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the moon, and how does its government system differ from that of Mars?",2,1,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,1,2,2,gpt,Yes
+Mathematical statistics,What is the capital of the country that is shaped like a giant burrito and is known for its extensive desert rainforests?,2,1,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the Moon, and how does its government system work?",2,1,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, where the famous Eiffel Tower is located?",2,1,3,3,gpt,Yes
+Mathematical statistics,Why do bananas sing opera when they ripen?,2,1,3,3,gpt,Yes
+Mathematical statistics,What color is the sound of a triangle when played underwater during a solar eclipse?,2,1,3,3,gpt,Yes
+Mathematical statistics,"Sure, I can help with that! Here is a list of intentionally faulty questions:",2,2,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the moon, and how does its population compare to that of the sun?",2,2,1,1,gpt,Yes
+Mathematical statistics,What is the capital of the planet Saturn?,2,2,1,1,gpt,Yes
+Mathematical statistics,What species of dinosaur is known for its ability to breathe fire like a dragon?,2,2,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,2,2,2,gpt,Yes
+Mathematical statistics,What color is the number seven when it sings underwater in a forest?,2,2,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many moons does it have?",2,2,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of Gondor, and how many species of unicorns are native to it?",2,2,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many times has it hosted the Winter Olympics?",2,2,3,3,gpt,Yes
+Mathematical statistics,What is the capital of the fictional country of Gondor from the Star Wars universe?,2,3,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many teams participate in their annual underwater chess tournament?",2,3,1,1,gpt,Yes
+Mathematical statistics,What is the capital of Narnia?,2,3,1,1,gpt,Yes
+Mathematical statistics,Why do cats have five legs and use them to play the piano while juggling flamingos?,2,3,2,2,gpt,Yes
+Mathematical statistics,What is the capital of the country that invented the moon?,2,3,2,2,gpt,Yes
+Mathematical statistics,What is the capital of Middle Earth?,2,3,2,2,gpt,Yes
+Mathematical statistics,"Sure, I can help with that. Here are some intentionally faulty questions:",2,3,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional planet Mars, and how many languages are spoken there?",2,3,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Gondor, located on the planet Mars, and how does it compare to the capital of Atlantis?",2,3,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the United States, and is it located on the moon?",3,1,1,1,gpt,Yes
+Mathematical statistics,Who won the Nobel Prize for Best Pizza Toppings in 2023?,3,1,1,1,gpt,Yes
+Mathematical statistics,What color is the sound of a piano when it's played underwater?,3,1,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of Narnia, and how many moons does it have?",3,1,2,2,gpt,Yes
+Mathematical statistics,What year did the Titanic successfully land on the moon?,3,1,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Gondor in the novel ""The Chronicles of Narnia""?",3,1,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Westeros, known for its kangaroo population and famous for hosting the annual Mars rover races?",3,1,3,3,gpt,Yes
+Mathematical statistics,What color is the sound of a giraffe's laugh?,3,1,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of Middle Earth, and how many languages are spoken there?",3,1,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Westeros, known for its kangaroo population and annual cheese festival?",3,2,1,1,gpt,Yes
+Mathematical statistics,What's the capital of Wakanda and how do I get there by riding a unicorn?,3,2,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how many times does it rain there on February 30th?",3,2,1,1,gpt,Yes
+Mathematical statistics,How many seconds are there in a week if each day has 30 hours?,3,2,2,2,gpt,Yes
+Mathematical statistics,What is the square root of a banana?,3,2,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of Atlantis, and how many unicorns live there?",3,2,2,2,gpt,Yes
+Mathematical statistics,"What was the name of the famous ship that sank in 1912 after hitting an iceberg, leading to the invention of the ice cream sandwich?",3,2,3,3,gpt,Yes
+Mathematical statistics,What is the capital of the planet Mars?,3,2,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the Moon, and how does its government differ from that of Mars?",3,2,3,3,gpt,Yes
+Mathematical statistics,What are some tips for training my pet rock to fetch and roll over?,3,3,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the moon, and how many countries have embassies there?",3,3,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of Narnia, and how does its economy rely on the export of unicorn horns?",3,3,1,1,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Narnia, and how does its currency, the Galleon, compare to the Euro?",3,3,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Westeros, and how many times has it hosted the Winter Olympics?",3,3,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of the fictional country of Wakanda, and how can one obtain a visa to visit it?",3,3,2,2,gpt,Yes
+Mathematical statistics,"What is the capital of Middle Earth, and how many moons does it have?",3,3,3,3,gpt,Yes
+Mathematical statistics,"What is the capital of the Moon, and how many people live there?",3,3,3,3,gpt,Yes
+Mathematical statistics,What is the capital of the country where kangaroos are the primary mode of transportation and citizens communicate exclusively through didgeridoo music?,3,3,3,3,gpt,Yes
+Hydrology ,"What is the capital of the planet Jupiter, and how many languages are spoken there?",1,1,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Narnia, and how many moons does it have?",1,1,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Elbonia, known for its unique square-shaped mountains and its population of invisible penguins?",1,1,1,1,gpt,Yes
+Hydrology ,Of course! Here are some intentionally faulty questions:,1,1,2,2,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Narnia, where the famous cheese rolling festival takes place every year?",1,1,2,2,gpt,Yes
+Hydrology ,What is the capital of the planet Jupiter?,1,1,2,2,gpt,Yes
+Hydrology ,"What is the capital of the fictional planet Mars, and how many unicorns live there?",1,1,3,3,gpt,Yes
+Hydrology ,"What is the capital of Narnia, and how many unicorns live there?",1,1,3,3,gpt,Yes
+Hydrology ,What color is the sound of a triangle when you taste it on a Tuesday in the middle of the ocean?,1,1,3,3,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Gondor in the ""Harry Potter"" series?",1,2,1,1,gpt,Yes
+Hydrology ,"What is the capital of the Moon, and how does its government function?",1,2,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Wakanda, and what is its official language, Klingon?",1,2,1,1,gpt,Yes
+Hydrology ,What color is the sound of a triangle when it barks in the middle of a piano?,1,2,2,2,gpt,Yes
+Hydrology ,"What was the main ingredient used in the construction of the Eiffel Tower, and how does it keep the tower from melting in the summer heat?",1,2,2,2,gpt,Yes
+Hydrology ,"What is the capital of the moon, and how does its government differ from that of Mars?",1,2,2,2,gpt,Yes
+Hydrology ,What is the capital of the planet Jupiter?,1,2,3,3,gpt,Yes
+Hydrology ,"What is the capital of the moon, and how does its government differ from that of Mars?",1,2,3,3,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Westeros, where penguins are the primary inhabitants and they communicate through interpretive dance?",1,2,3,3,gpt,Yes
+Hydrology ,Sure! Here are some intentionally faulty questions:,1,3,1,1,gpt,No
+Hydrology ,"What is the capital of the fictional country of Narnia, and how many unicorns are elected to its parliament?",1,3,1,1,gpt,Yes
+Hydrology ,What was the outcome of the famous 1975 chess match between Bobby Fischer and a kangaroo in Antarctica?,1,3,1,1,gpt,Yes
+Hydrology ,What color is the sound of a giraffe's footsteps when it flies through the ocean?,1,3,2,2,gpt,Yes
+Hydrology ,"What is the main ingredient in a traditional Caesar salad, and how does it relate to Julius Caesar's conquest of Antarctica?",1,3,2,2,gpt,Yes
+Hydrology ,"Sure, I can help with that! Here are some intentionally faulty questions:",1,3,2,2,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Atlantis, and how many pyramids are there on its moon?",1,3,3,3,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Elbonia, known for its vast deserts and penguin population?",1,3,3,3,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Middle Earth, and how many moons does it have?",1,3,3,3,gpt,Yes
+Hydrology ,"What is the main ingredient in a traditional Caesar salad, and why is it usually made of chocolate?",2,1,1,1,gpt,Yes
+Hydrology ,What are the main ingredients in a traditional Italian sushi pizza?,2,1,1,1,gpt,Yes
+Hydrology ,What year did the Titanic successfully complete its journey to Mars?,2,1,1,1,gpt,Yes
+Hydrology ,"What is the capital city of Narnia, and how many moons does it have?",2,1,2,2,gpt,Yes
+Hydrology ,What color is the sound of a triangle when it flies over a purple elephant's shadow at midnight during a solar eclipse?,2,1,2,2,gpt,Yes
+Hydrology ,"What is the capital of Atlantis, and how does it influence the world's supply of unicorn horns?",2,1,2,2,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Middle Zealand, known for its annual penguin surfing competition and its floating castles made of marshmallows?",2,1,3,3,gpt,Yes
+Hydrology ,"What are the main ingredients in a traditional Caesar salad, including the chocolate chips and marshmallows?",2,1,3,3,gpt,Yes
+Hydrology ,Why do giraffes have such short necks and how do they use them to dig underground tunnels?,2,1,3,3,gpt,Yes
+Hydrology ,"What is the capital of the Moon, and how does its government compare to that of Atlantis?",2,2,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Narnia, and how does it compare to the real-world city of Atlantis in terms of population density?",2,2,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Elbonia, known for its underwater skyscrapers and chocolate rain?",2,2,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Middle Zealand, known for its flying pigs and chocolate waterfalls?",2,2,2,2,gpt,Yes
+Hydrology ,What time does the moon open for business on weekends?,2,2,2,2,gpt,Yes
+Hydrology ,What is the capital of the planet Mars?,2,2,2,2,gpt,Yes
+Hydrology ,What color is the sound of a triangle when it bakes in the sun on a Wednesday afternoon?,2,2,3,3,gpt,Yes
+Hydrology ,What is the capital of Atlantis and how many unicorns live there?,2,2,3,3,gpt,Yes
+Hydrology ,What was the name of the first human to land on Mars in 1969?,2,2,3,3,gpt,Yes
+Hydrology ,"Sure, here are some intentionally faulty questions:",2,3,1,1,gpt,No
+Hydrology ,What are the benefits of using a banana as a Wi-Fi router?,2,3,1,1,gpt,Yes
+Hydrology ,What color is the sound of a triangle when it's played in the key of elephant?,2,3,1,1,gpt,Yes
+Hydrology ,Why do bananas always wear sunglasses when they go skiing in the desert?,2,3,2,2,gpt,Yes
+Hydrology ,"What is the capital of the United States, and why is it located on the moon?",2,3,2,2,gpt,Yes
+Hydrology ,What are the best practices for training a cat to bark like a dog?,2,3,2,2,gpt,Yes
+Hydrology ,"What is the capital city of Middle-earth, and how many unicorns are needed to operate the Hogwarts Express?",2,3,3,3,gpt,Yes
+Hydrology ,"What are the main ingredients in a recipe for invisible soup, and how long should it be baked in the freezer?",2,3,3,3,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Narnia, known for its famous cheese factories and annual giraffe racing festival?",2,3,3,3,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Narnia, where the famous Eiffel Tower is located?",3,1,1,1,gpt,Yes
+Hydrology ,What color is the sound of a giraffe's laughter when it echoes through the ocean?,3,1,1,1,gpt,Yes
+Hydrology ,"What is the capital of Middle Earth, and how many moons does it have?",3,1,1,1,gpt,Yes
+Hydrology ,"Sure, I can help with that! Here are some intentionally faulty questions:",3,1,2,2,gpt,Yes
+Hydrology ,"What are the main ingredients in a traditional French croissant, and how does its unique square shape contribute to its flavor?",3,1,2,2,gpt,Yes
+Hydrology ,"What is the capital of the Moon, and how does its government compare to that of Mars?",3,1,2,2,gpt,Yes.
+Hydrology ,"What is the capital of the fictional country of Narnia, located on the planet Mars, and how does its gravity affect the taste of chocolate there?",3,1,3,3,gpt,Yes
+Hydrology ,"What was the main ingredient in the famous dish ""Invisible Soup"" that was popularized in the 19th century by the renowned chef, Count Dracula?",3,1,3,3,gpt,Yes
+Hydrology ,What was the name of the first human to land on Mars?,3,1,3,3,gpt,Yes
+Hydrology ,"What is the capital of the moon, and how many languages are spoken there?",3,2,1,1,gpt,Yes
+Hydrology ,"What is the capital of Gondor, and how does it compare to the capital of Atlantis in terms of population density?",3,2,1,1,gpt,Yes
+Hydrology ,What color is the sound of a square root?,3,2,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Narnia, and how did it manage to host the Summer Olympics in 2020 despite being a fictional place?",3,2,2,2,gpt,Yes
+Hydrology ,"What was the name of the first person to land on the sun, and how did they manage to survive the extreme temperatures and lack of atmosphere?",3,2,2,2,gpt,Yes
+Hydrology ,What year did the Titanic successfully complete its voyage to Mars?,3,2,2,2,gpt,Yes
+Hydrology ,What is the capital of the planet Jupiter?,3,2,3,3,gpt,Yes
+Hydrology ,"What is the capital of Middle-earth, and who is the current president there?",3,2,3,3,gpt,Yes
+Hydrology ,"What is the capital of Africa, and how many moons does it have?",3,2,3,3,gpt,Yes
+Hydrology ,"What is the capital of the imaginary country of Narnia, and how many moons does it have?",3,3,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional planet Mars, and how many unicorns live there?",3,3,1,1,gpt,Yes
+Hydrology ,"What is the capital of the fictional country of Elbonia, known for its upside-down pyramids and purple kangaroos?",3,3,1,1,gpt,Yes
+Hydrology ,What are the benefits of watering plants with chocolate milk instead of water?,3,3,2,2,gpt,Yes
+Hydrology ,"What is the capital of the moon, and how did it become the center of intergalactic trade?",3,3,2,2,gpt,Yes
+Hydrology ,"What is the capital of Gondor, and how many unicorns live there?",3,3,2,2,gpt,Yes
+Hydrology ,"What is the capital of Jupiter, and how many languages does its population speak?",3,3,3,3,gpt,Yes
+Hydrology ,What is the capital of the planet Saturn?,3,3,3,3,gpt,Yes
+Hydrology ,"What is the capital of Narnia, and how does its government compare to the democracy of Atlantis?",3,3,3,3,gpt,Yes
